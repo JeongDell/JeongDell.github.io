@@ -2,7 +2,7 @@
 layout: post
 title:  "글 주제"
 date:   2024-07-29 15:50:00
-categories: 카테고리
+categories: test
 ---
 
 이렇게 쓰시면 그냥 평문으로 나오는데 별표를 하나를 놓으시면 *이탈릭체* 처리하게 됩니다. 
